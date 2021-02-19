@@ -154,7 +154,7 @@ function hungryDog(weight,age){
   }
 
   console.log(hungryDog(15,1));
-
+  console.log(hungryDog(15,2));
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
